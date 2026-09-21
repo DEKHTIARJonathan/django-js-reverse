@@ -30,6 +30,7 @@ setup(
         'Framework :: Django',
         'Framework :: Django :: 5.2',
         'Framework :: Django :: 6.0',
+        'Framework :: Django :: 6.1',
         'Development Status :: 5 - Production/Stable',
         'Programming Language :: Python :: 3.10',
         'Programming Language :: Python :: 3.11',
